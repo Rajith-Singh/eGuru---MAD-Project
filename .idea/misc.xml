@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/drawable/round_btn.xml" value="0.1" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_addjob.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_teacherprofile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_tmanage_ads.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_view_teachers_adds.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
