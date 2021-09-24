@@ -21,13 +21,12 @@
     <string name="st_phone" />
     <string name="stprofile_edit">"Edit "</string>
     <string name="btnprofile_delete">Delete</string>
-    <string name="btn_myprofile">View My profile</string>
+
 
     <string name="feedback_topic">Feedback</string>
     <string name="addname">Enter Your Name</string>
     <string name="add_urfeedback">Add your Feedback</string>
     <string name="btn_submitfeed">Add Feedback</string>
-
 
 
     <string name="signuptxt">Sign Up</string>
@@ -39,5 +38,14 @@
     <string name="btntfeedback">My Feedback</string>
     <string name="t_add_del_btn">Delete</string>
     <string name="t_ads_edit_btn">Edit</string>
+    <string name="view_feedbacks">View My feedbacks</string>
+    <string name="tview_stfeedback" />
+    <string name="tview_sfeedbacktwo" />
+    <string name="enter_namef">Enter Your Name</string>
+    <string name="enter_feedbackf">Enter Your Feedback</string>
+    <string name="entername" />
+    <string name="enterfeedback" />
+    <string name="btn_update">Update</string>
+
 
 </resources>
