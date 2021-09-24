@@ -19,50 +19,6 @@
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/hshortbcakground" />
 
-    <ImageView
-        android:id="@+id/imageView20h"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.433"
-        app:srcCompat="@drawable/hbtnbackgroundd" />
-
-    <ImageView
-        android:id="@+id/imageView21h"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.536"
-        app:srcCompat="@drawable/hbtnbackgroundd" />
-
-    <ImageView
-        android:id="@+id/imageView22h"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.64"
-        app:srcCompat="@drawable/hbtnbackgroundd" />
-
-    <ImageView
-        android:id="@+id/imageView23h"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.745"
-        app:srcCompat="@drawable/hbtnbackgroundd" />
-
     <RadioGroup
         android:id="@+id/classType"
         android:layout_width="267dp"
@@ -70,9 +26,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.527"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView23h"
-        app:layout_constraintVertical_bias="0.227" />
+        app:layout_constraintStart_toStartOf="parent" />
     <RadioButton
         android:id="@+id/radio one"
         android:layout_width="wrap_content"

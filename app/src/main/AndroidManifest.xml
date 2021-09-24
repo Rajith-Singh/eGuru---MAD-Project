@@ -13,6 +13,9 @@
             android:name=".addJob"
             android:exported="true" />
         <activity
+            android:name=".institute_profile_page_yja"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity
