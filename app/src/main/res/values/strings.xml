@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
+    <string name="my_feedback">My Feedbacks</string>
+    <string name="views_name" />
+    <string name="views_feedback" />
+    <string name="view_rating" />
+    <string name="btnupdate">Update</string>
+    <string name="btndelete">Delete</string>
+
+    <string name="s_name">Name</string>
+    <string name="s_feedback">Your Feedback</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_feedback">Enter Feedback</string>
+
+
+    <string name="view_profilete">View My Profile</string>
+
+    <string name="st_name" />
+    <string name="st_email" />
+    <string name="st_phone" />
+    <string name="stprofile_edit">"Edit "</string>
+    <string name="btnprofile_delete">Delete</string>
+    <string name="btn_myprofile">View My profile</string>
+
+    <string name="feedback_topic">Feedback</string>
+    <string name="addname">Enter Your Name</string>
+    <string name="add_urfeedback">Add your Feedback</string>
+    <string name="btn_submitfeed">Add Feedback</string>
+
+
+
 </resources>
