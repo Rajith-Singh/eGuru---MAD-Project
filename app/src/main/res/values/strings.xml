@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
+    <string name="et_name_insertads_yja">Enter Institute Name</string>
+    <string name="et_classdetails_insertads_yja">Enter Class Details</string>
+    <string name="et_email_insertads_yja">Enter Email</string>
+    <string name="btn_insertads_yja">Add Now</string>
+    <string name="et_number_insertads_yja">Enter Contact Number</string>
+    <string name="btn_profile_AdsManage_yja">Manage Institute Ads</string>
 </resources>
