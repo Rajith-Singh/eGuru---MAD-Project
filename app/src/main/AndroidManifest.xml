@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject">
         <activity
+
             android:name=".viewJobs"
             android:exported="true" />
         <activity
@@ -22,22 +23,24 @@
             android:name=".t_manage_ads"
             android:exported="true" />
         <activity
-            android:name=".view_teachers_adds"
+            android:name=".teacherprofile"
             android:exported="true" />
         <activity
             android:name=".addjob"
             android:exported="true" />
         <activity
-            android:name=".signup"
+            android:name=".view_teachers_adds"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />
+
         <activity
-            android:name=".teacherprofile"
+
+            android:name=".AddJobInstitute"
             android:exported="true" />
         <activity
-            android:name=".AddJobInstitute"
+            android:name=".signup"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
