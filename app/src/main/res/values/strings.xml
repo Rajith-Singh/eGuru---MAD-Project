@@ -9,4 +9,12 @@
     <string name="btntfeedback">My Feedback</string>
     <string name="t_add_del_btn">Delete</string>
     <string name="t_ads_edit_btn">Edit</string>
+    <string name="singup_name"></string>
+    <string name="signup_email"></string>
+    <string name="signup_v_name">Name</string>
+    <string name="signup_v_role">Role</string>
+    <string name="signup_v_email">Email</string>
+    <string name="signup_v_password">Password</string>
+    <string name="signup_v_mobile">Mobile</string>
+    <string name="signup_btn">Sign Up</string>
 </resources>
