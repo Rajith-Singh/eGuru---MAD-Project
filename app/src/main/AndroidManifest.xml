@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject">
         <activity
+            android:name=".institute_profile_page_yja"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
