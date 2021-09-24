@@ -16,7 +16,7 @@
             android:name=".t_manage_ads"
             android:exported="true" />
         <activity
-            android:name=".signup"
+            android:name=".addjob"
             android:exported="true" />
         <activity
             android:name=".view_teachers_adds"
@@ -25,7 +25,7 @@
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-            android:name=".addjob"
+            android:name=".signup"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

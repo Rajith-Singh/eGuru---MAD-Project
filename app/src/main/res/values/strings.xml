@@ -17,4 +17,11 @@
     <string name="signup_v_password">Password</string>
     <string name="signup_v_mobile">Mobile</string>
     <string name="signup_btn">Sign Up</string>
+
+    <string-array name="names">
+
+        <item> Student </item>
+        <item> Teacher </item>
+        <item> Institute </item>
+    </string-array>
 </resources>
