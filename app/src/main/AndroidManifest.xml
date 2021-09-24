@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject">
         <activity
+            android:name=".institute_ads_manage_yja"
+            android:exported="true" />
+        <activity
+            android:name=".institute_ads_view_yja"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity

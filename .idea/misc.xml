@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_insertion_yja.xml" value="0.25" />
-        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_profile_page_yja.xml" value="0.25" />
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_manage_yja.xml" value="0.371875" />
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_view_yja.xml" value="0.371875" />
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_profile_page_yja.xml" value="0.33" />
         <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_main.xml" value="0.2536231884057971" />
       </map>
     </option>

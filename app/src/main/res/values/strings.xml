@@ -6,4 +6,9 @@
     <string name="btn_insertads_yja">Add Now</string>
     <string name="et_number_insertads_yja">Enter Contact Number</string>
     <string name="btn_profile_AdsManage_yja">Manage Institute Ads</string>
+    <string name="tv_profile_name_yja">....</string>
+    <string name="btn_profile_delete_yja">Delete</string>
+    <string name="btn_profile_update_yja">Update</string>
+    <string name="btn_profile_logout_yja">Logout</string>
+    <string name="btn_profile_JobManage_yja">Manage Job Vacancies</string>
 </resources>
