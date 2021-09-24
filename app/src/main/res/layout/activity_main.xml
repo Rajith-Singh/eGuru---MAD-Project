@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< HEAD
+
     tools:context=".MainActivity"/>
-=======
-    tools:context=".MainActivity">
+
+
 
     <ImageView
         android:id="@+id/imageView2"
@@ -90,4 +90,3 @@
         app:srcCompat="@drawable/eguru" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
->>>>>>> b7da1c5cf5ec4d66fd847fc80a27756907f38e31

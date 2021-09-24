@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
+
     <string name="my_feedback">My Feedbacks</string>
     <string name="views_name" />
     <string name="views_feedback" />
@@ -28,5 +29,15 @@
     <string name="btn_submitfeed">Add Feedback</string>
 
 
+
+    <string name="signuptxt">Sign Up</string>
+    <string name="btn_add_job">Add Now</string>
+    <string name="txt_add_job">Add Job</string>
+    <string name="btnedit">Edit</string>
+    <string name="btnfeedback">Feedback</string>
+    <string name="btnads">Ads</string>
+    <string name="btntfeedback">My Feedback</string>
+    <string name="t_add_del_btn">Delete</string>
+    <string name="t_ads_edit_btn">Edit</string>
 
 </resources>

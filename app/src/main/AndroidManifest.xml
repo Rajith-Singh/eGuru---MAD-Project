@@ -22,8 +22,27 @@
             android:name=".editstudentdeedbacks"
             android:exported="true" />
         <activity
+            android:name=".t_manage_ads"
+            android:exported="true" />
+        <activity
+            android:name=".view_teachers_adds"
+            android:exported="true" />
+        <activity
+            android:name=".addjob"
+            android:exported="true" />
+        <activity
+            android:name=".signup"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
+<<<<<<< HEAD
             android:exported="true" >
+=======
+            android:exported="true" />
+        <activity
+            android:name=".teacherprofile"
+            android:exported="true">
+>>>>>>> d4144b46a701c128db32f3080ec1da8f045cd2ea
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
