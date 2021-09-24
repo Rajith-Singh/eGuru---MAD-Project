@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
+    <string name="loginID">LOGIN</string>
+
+    <string name="passwordID">Password:</string>
+    <string name="emailID">E-mail:</string>
+
+    <string name="emailTxt">E-mail</string>
+    <string name="pwTxt">Password</string>
+
+    <string name="fogotPwTxt">Fogotten Password</string>
+    <string name="buttonLogin">Login</string>
 </resources>
