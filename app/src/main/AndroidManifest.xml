@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject" >
         <activity
-            android:name=".addJob"
+            android:name=".MainActivity11"
             android:exported="true" />
         <activity
             android:name=".institute_profile_page_yja"
@@ -31,13 +31,11 @@
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-
-            android:name=".MainActivity11"
-            android:exported="true" >
-
             android:name=".teacherprofile"
-            android:exported="true">
-
+            android:exported="true" />
+        <activity
+            android:name=".AddJobInstitute"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

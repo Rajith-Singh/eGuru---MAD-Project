@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
-<<<<<<< HEAD
+
     <string name="loginID">LOGIN</string>
 
     <string name="passwordID">Password:</string>
@@ -11,7 +11,7 @@
 
     <string name="fogotPwTxt">Fogotten Password</string>
     <string name="buttonLogin">Login</string>
-=======
+
     <string name="signuptxt">Sign Up</string>
     <string name="btn_add_job">Add Now</string>
     <string name="txt_add_job">Add Job</string>
@@ -21,5 +21,16 @@
     <string name="btntfeedback">My Feedback</string>
     <string name="t_add_del_btn">Delete</string>
     <string name="t_ads_edit_btn">Edit</string>
->>>>>>> d4144b46a701c128db32f3080ec1da8f045cd2ea
+    <string name="emailIDh">Email</string>
+    <string name="emailItxtIDh" />
+    <string name="textView3h">ADD JOB VACANCY</string>
+    <string name="textView5h">Institute Name</string>
+    <string name="textView7h">Subject</string>
+    <string name="extView8h">Grade</string>
+    <string name="textView9h">Area</string>
+    <string name="button2h">ADD</string>
+    <string name="lable1h" />
+    <string name="lable2h" />
+    <string name="lable3h" />
+    <string name="lable4h" />
 </resources>
