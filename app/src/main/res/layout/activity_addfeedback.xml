@@ -75,6 +75,7 @@
             android:id="@+id/ratind_bar"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:progressTint="#8685ef"
             android:layout_gravity="center_horizontal"
             android:background="#EDEDED"
             android:numStars="5"

@@ -46,6 +46,7 @@
     <string name="entername" />
     <string name="enterfeedback" />
     <string name="btn_update">Update</string>
+    <string name="retrieve_name" />
 
 
 </resources>
