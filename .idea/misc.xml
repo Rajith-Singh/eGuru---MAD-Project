@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+<<<<<<< HEAD
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_insertion_yja.xml" value="0.25" />
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_manage_yja.xml" value="0.371875" />
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_view_yja.xml" value="0.371875" />
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_profile_page_yja.xml" value="0.33" />
+        <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_main.xml" value="0.2536231884057971" />
+=======
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/drawable/round_btn.xml" value="0.1" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/drawable/round_btn_yellow.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_addjob.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_signup.xml" value="0.4" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_teacherprofile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_tmanage_ads.xml" value="0.264" />
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_view_teachers_adds.xml" value="0.25416666666666665" />
+>>>>>>> a1b1330f43b44b18d0e9f3a84e13c6df88edba33
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
