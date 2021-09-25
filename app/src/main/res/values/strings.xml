@@ -59,6 +59,9 @@
     <string name="signup_v_password">Password</string>
     <string name="signup_v_mobile">Mobile</string>
     <string name="signup_btn">Sign Up</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_mail">Enter email</string>
+    <string name="enter_uremail" />
 
     <string-array name="names">
 

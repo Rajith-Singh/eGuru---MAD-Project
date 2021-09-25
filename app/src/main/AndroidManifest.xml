@@ -11,7 +11,7 @@
         android:theme="@style/Theme.EGuruMADProject">
         <activity
 
-            android:name=".addfeedback"
+            android:name=".signup"
             android:exported="true" />
         <activity
             android:name=".updatemyfeedbacks"
@@ -42,7 +42,7 @@
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-            android:name=".signup"
+            android:name=".addfeedback"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

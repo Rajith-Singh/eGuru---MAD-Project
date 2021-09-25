@@ -69,7 +69,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:text="@string/view_profilete"
-        android:textColor="#FF9800"
+        android:textColor="#EDEAE5"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
