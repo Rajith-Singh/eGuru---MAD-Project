@@ -14,7 +14,7 @@
             android:name=".viewJobs"
             android:exported="true" />
         <activity
-            android:name=".MainActivity11"
+            android:name=".signup"
             android:exported="true" />
         <activity
             android:name=".institute_profile_page_yja"
@@ -36,11 +36,10 @@
             android:exported="true" />
 
         <activity
-
-            android:name=".AddJobInstitute"
+            android:name=".MainActivity11"
             android:exported="true" />
         <activity
-            android:name=".signup"
+            android:name=".AddJobInstitute"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
