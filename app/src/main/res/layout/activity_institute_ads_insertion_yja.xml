@@ -98,6 +98,19 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
         app:layout_constraintVertical_bias="0.2" />
 
+    <Button
+        android:id="@+id/btn_viewads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/btn_insertads_yja"
+        android:text="View Ads"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.482" />
+
     <TextView
         android:id="@+id/tv_insertads_header"
         android:layout_width="289dp"
@@ -116,7 +129,7 @@
     <EditText
         android:id="@+id/et_name_insertads_yja"
         android:layout_width="220dp"
-        android:layout_height="43dp"
+        android:layout_height="48dp"
         android:ems="10"
         android:hint="@string/et_name_insertads_yja"
         android:inputType="textPersonName"
@@ -136,6 +149,7 @@
         android:ems="10"
         android:hint="@string/et_classdetails_insertads_yja"
         android:inputType="textPersonName"
+        android:minHeight="48dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView16_insertads_yja"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -150,6 +164,7 @@
         android:ems="10"
         android:hint="@string/et_email_insertads_yja"
         android:inputType="textEmailAddress"
+        android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -164,6 +179,7 @@
         android:ems="10"
         android:hint="@string/et_number_insertads_yja"
         android:inputType="phone"
+        android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView17_insertads_yja"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"

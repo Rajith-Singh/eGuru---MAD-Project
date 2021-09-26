@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.eguru_madproject">
+    package="com.example.eguru_madproject" >
 
     <application
         android:allowBackup="true"
@@ -8,16 +8,18 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.EGuruMADProject">
+        android:theme="@style/Theme.EGuruMADProject" >
         <activity
-
+            android:name=".ShowActivity99"
+            android:exported="true" />
+        <activity
             android:name=".institute_ads_manage_yja"
             android:exported="true" />
         <activity
             android:name=".institute_ads_view_yja"
             android:exported="true" />
         <activity
-            android:name=".institute_Ads_Insertion_yja"
+            android:name=".signup"
             android:exported="true" />
         <activity
             android:name=".institute_profile_page_yja"
@@ -33,14 +35,13 @@
             android:exported="true" />
         <activity
             android:name=".view_teachers_adds"
-
             android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-            android:name=".signup"
-            android:exported="true">
+            android:name=".institute_Ads_Insertion_yja"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
