@@ -46,6 +46,7 @@
 
     <string name="textView10h">Contact Number</string>
     <string name="TextPhoneh" />
+    <string name="buttonOpenH">Open</string>
 
     <string-array name="names">
 

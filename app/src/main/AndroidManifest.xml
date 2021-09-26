@@ -10,7 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject">
         <activity
-
+            android:name=".ShowActivityH"
+            android:exported="true" />
+        <activity
             android:name=".viewJobs"
             android:exported="true" />
         <activity
@@ -34,7 +36,6 @@
         <activity
             android:name=".MainActivity"
             android:exported="true" />
-
         <activity
             android:name=".MainActivity11"
             android:exported="true" />
