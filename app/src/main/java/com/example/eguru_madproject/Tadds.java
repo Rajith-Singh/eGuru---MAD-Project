@@ -1,6 +1,10 @@
 package com.example.eguru_madproject;
 
+import com.google.firebase.database.Exclude;
+
 public class Tadds {
+    @Exclude
+    private String key;
     private String subject;
     private String medium;
     private String grade;
@@ -45,4 +49,13 @@ public class Tadds {
     public void setFee(String fee) {
         this.fee = fee;
     }
+
+    public String getKey() {
+        return key;
+    }
+
+    public void setKey(String key) {
+        this.key = key;
+    }
+
 }

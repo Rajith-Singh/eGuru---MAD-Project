@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject">
         <activity
+            android:name=".t_addView"
+            android:exported="true" />
+        <activity
             android:name=".forgotten_password"
             android:exported="true" />
         <activity
