@@ -8,10 +8,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.PopupMenu;
 import android.widget.Toast;
+import java.io.Serializable;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 public class RVAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
@@ -53,8 +55,8 @@ public class RVAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
                 switch (item.getItemId())
                 {
                     case R.id.menu_edit:
-                        Intent intent = new Intent(context,t_addView.class);
-                        intent.putExtra("EDIT", (Parcelable) add);
+                        Intent intent = new Intent(context,addjob.class);
+                        intent.putExtra("EDIT", add);
                         context.startActivity(intent);
                         break;
                     case R.id.menu_remove:

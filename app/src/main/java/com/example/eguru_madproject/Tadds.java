@@ -1,8 +1,9 @@
 package com.example.eguru_madproject;
 
 import com.google.firebase.database.Exclude;
+import java.io.Serializable;
 
-public class Tadds {
+public class Tadds implements Serializable{
     @Exclude
     private String key;
     private String subject;

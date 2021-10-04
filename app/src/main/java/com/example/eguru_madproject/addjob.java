@@ -63,8 +63,9 @@ public class addjob extends AppCompatActivity {
                                     mediumTxt.getText().toString(),
                                     gradeTxt.getText().toString(),
                                     feeTxt.getText().toString());
-            if(add_edit==null){
-            dao.add(add).addOnSuccessListener(suc->
+            if(add_edit==null)
+            {
+                dao.add(add).addOnSuccessListener(suc->
             {
                 Toast.makeText(this,"Record is inserted", Toast.LENGTH_LONG).show();
             }).addOnFailureListener(er->
