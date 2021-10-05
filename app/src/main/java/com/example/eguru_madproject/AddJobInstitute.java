@@ -7,17 +7,15 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.google.android.material.textfield.TextInputEditText;
+
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class AddJobInstitute extends AppCompatActivity {
 
-//    private FirebaseDatabase db = FirebaseDatabase.getInstance();
-//    private DatabaseReference root = db.getReference().child("InstituteJob");
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

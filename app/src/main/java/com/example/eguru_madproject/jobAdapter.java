@@ -35,12 +35,12 @@ public class jobAdapter extends RecyclerView.Adapter<jobAdapter.jobViewHolder> {
     public void onBindViewHolder(@NonNull jobViewHolder holder, int position) {
 
         modelH model = mList.get(position);
+        holder.aarea.setText(model.getAarea());
+        holder.agrade.setText(model.getAgrade());
+
+        holder.acontact.setText(model.getAcontact());
         holder.aname.setText(model.getAname());
         holder.asubject.setText(model.getAsubject());
-        holder.agrade.setText(model.getAgrade());
-        holder.aarea.setText(model.getAarea());
-        holder.acontact.setText(model.getAcontact());
-
     }
 
     @Override
@@ -56,12 +56,13 @@ public class jobAdapter extends RecyclerView.Adapter<jobAdapter.jobViewHolder> {
         public jobViewHolder(@NonNull View itemView) {
             super(itemView);
 
+
+
             aname = itemView.findViewById(R.id.namehh_text);
             asubject = itemView.findViewById(R.id.subhh_text);
             agrade = itemView.findViewById(R.id.gradehh_text);
-            aarea = itemView.findViewById(R.id.addAreaH);
+            aarea = itemView.findViewById(R.id.areahh_text);
             acontact = itemView.findViewById(R.id.contacthh_text);
-
 
         }
     }
