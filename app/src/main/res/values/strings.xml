@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
+
     <string name="et_name_insertads_yja">Enter Institute Name</string>
     <string name="et_classdetails_insertads_yja">Enter Class Details</string>
     <string name="et_email_insertads_yja">Enter Email</string>
@@ -11,6 +12,20 @@
     <string name="btn_profile_update_yja">Update</string>
     <string name="btn_profile_logout_yja">Logout</string>
     <string name="btn_profile_JobManage_yja">Manage Job Vacancies</string>
+
+
+    <string name="loginID">LOGIN</string>
+
+    <string name="passwordID">Password:</string>
+    <string name="emailID">E-mail:</string>
+
+    <string name="emailTxt">E-mail</string>
+    <string name="pwTxt">Password</string>
+
+    <string name="fogotPwTxt">Fogotten Password</string>
+    <string name="buttonLogin">Login</string>
+
+
     <string name="signuptxt">Sign Up</string>
     <string name="btn_add_job">Add Now</string>
     <string name="txt_add_job">Add Job</string>
@@ -20,6 +35,20 @@
     <string name="btntfeedback">My Feedback</string>
     <string name="t_add_del_btn">Delete</string>
     <string name="t_ads_edit_btn">Edit</string>
+
+    <string name="emailIDh">Email</string>
+    <string name="emailItxtIDh" />
+    <string name="textView3h">ADD JOB VACANCY</string>
+    <string name="textView5h">Institute Name</string>
+    <string name="textView7h">Subject</string>
+    <string name="extView8h">Grade</string>
+    <string name="textView9h">Area</string>
+    <string name="button2h">ADD</string>
+    <string name="lable1h" />
+    <string name="lable2h" />
+    <string name="lable3h" />
+    <string name="lable4h" />
+
     <string name="singup_name"></string>
     <string name="signup_email"></string>
     <string name="signup_v_name">Name</string>
@@ -28,4 +57,17 @@
     <string name="signup_v_password">Password</string>
     <string name="signup_v_mobile">Mobile</string>
     <string name="signup_btn">Sign Up</string>
+
+    <string name="textView10h">Contact Number</string>
+    <string name="TextPhoneh" />
+    <string name="buttonOpenH">Open</string>
+
+    <string-array name="names">
+
+        <item> Student </item>
+        <item> Teacher </item>
+        <item> Institute </item>
+    </string-array>
+
+
 </resources>
