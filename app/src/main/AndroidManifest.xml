@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject">
         <activity
+
             android:name=".t_addView"
             android:exported="true" />
         <activity
@@ -24,11 +25,44 @@
         <activity
             android:name=".institute_ads_manage_yja"
             android:exported="true" />
+         <activity
+            android:name=".showActivity"
+            android:exported="true" />
         <activity
-            android:name=".institute_ads_view_yja"
+            android:name=".RetrieveFeedbacks"
+            android:exported="true" />
+        <activity
+            android:name=".signup"
+            android:exported="true" />
+        <activity
+            android:name=".updatemyfeedbacks"
+            android:exported="true" />
+        <activity
+            android:name=".studentprofile"
+            android:exported="true" />
+        <activity
+            android:name=".ShowActivityStudent"
+            android:exported="true" />
+
+        <activity
+            android:name=".updateAds"
+            android:exported="true" />
+        <activity
+            android:name=".ShowActivity99"
+            android:exported="true" />
+        <activity
+            android:name=".institute_ads_manage_yja"
             android:exported="true" />
         <activity
             android:name=".institute_Ads_Insertion_yja"
+
+            android:name=".ShowActivityH"
+            android:exported="true" />
+        <activity
+            android:name=".viewJobs"
+            android:exported="true" />
+        <activity
+            android:name=".signup"
             android:exported="true" />
         <activity
             android:name=".institute_profile_page_yja"
@@ -37,7 +71,18 @@
             android:name=".teacherprofile"
             android:exported="true" />
         <activity
+            android:name=".studentfeedbacks"
+            android:exported="true" />
+        <activity
             android:name=".t_manage_ads"
+            android:exported="true" />
+        <activity
+
+            android:name=".editstudentdeedbacks"
+            android:exported="true" />
+          
+          <activity
+            android:name=".teacherprofile"
             android:exported="true" />
         <activity
             android:name=".addjob"
@@ -47,6 +92,23 @@
             android:exported="true" />
         <activity
             android:name=".t_login"
+            android:exported="true" />
+       <activity
+            android:name=".MainActivity11"
+            android:exported="true" />
+        <activity
+            
+            android:name=".addfeedback"
+            android:exported="true" />
+      
+         <activity
+            
+            android:name=".AddJobInstitute"
+            android:exported="true" />
+          
+            <activity
+          
+           android:name=".institute_ads_view_yja"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

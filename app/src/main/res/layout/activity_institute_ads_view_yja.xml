@@ -2,28 +2,94 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/insAds"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".institute_ads_view_yja">
+    android:background="#EBE8E8"
+    tools:context=".signup">
 
     <ImageView
-        android:id="@+id/imageView4_viewads_yja"
-        android:layout_width="142dp"
-        android:layout_height="99dp"
-        android:layout_marginTop="56dp"
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/path" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/top" />
+
+    <TextView
+        android:id="@+id/signuptxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:text="@string/signuptxt"
+        android:textColor="#F1CB0B"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="167dp"
+        android:layout_height="129dp"
+        android:layout_marginTop="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/eguru" />
 
-    <ImageView
-        android:id="@+id/imageView4_viewads_yja"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+    <Button
+        android:id="@+id/btn_insertads_yja"
+        android:layout_width="122dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="424dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="Profile"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/top" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.204" />
+
+    <Button
+        android:id="@+id/jobbAds"
+        android:layout_width="205dp"
+        android:layout_height="64dp"
+        android:layout_marginBottom="320dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="Manage Job Vacancy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.795" />
+
+    <Button
+        android:id="@+id/inssAds"
+        android:layout_width="205dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="232dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="Manage Institute Ads"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.203" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

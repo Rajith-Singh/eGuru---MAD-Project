@@ -1,5 +1,34 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
+
+
+    <string name="my_feedback">My Feedbacks</string>
+    <string name="views_name" />
+    <string name="views_feedback" />
+    <string name="view_rating" />
+    <string name="btnupdate">Update</string>
+    <string name="btndelete">Delete</string>
+
+    <string name="s_name">Name</string>
+    <string name="s_feedback">Your Feedback</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_feedback">Enter Feedback</string>
+
+
+    <string name="view_profilete">View My Profile</string>
+
+    <string name="st_name" />
+    <string name="st_email" />
+    <string name="st_phone" />
+    <string name="stprofile_edit">"Edit "</string>
+    <string name="btnprofile_delete">Delete</string>
+
+
+    <string name="feedback_topic">Feedback</string>
+    <string name="addname">Enter Your Name</string>
+    <string name="add_urfeedback">Add your Feedback</string>
+    <string name="btn_submitfeed">Add Feedback</string>
+
     <string name="et_name_insertads_yja">Enter Institute Name</string>
     <string name="et_classdetails_insertads_yja">Enter Class Details</string>
     <string name="et_email_insertads_yja">Enter Email</string>
@@ -11,6 +40,21 @@
     <string name="btn_profile_update_yja">Update</string>
     <string name="btn_profile_logout_yja">Logout</string>
     <string name="btn_profile_JobManage_yja">Manage Job Vacancies</string>
+
+
+    <string name="loginID">LOGIN</string>
+
+    <string name="passwordID">Password:</string>
+    <string name="emailID">E-mail:</string>
+
+    <string name="emailTxt">E-mail</string>
+    <string name="pwTxt">Password</string>
+
+    <string name="fogotPwTxt">Fogotten Password</string>
+    <string name="buttonLogin">Login</string>
+
+
+
     <string name="signuptxt">Sign Up</string>
     <string name="btn_add_job">Add Now</string>
     <string name="txt_add_job">Add Job</string>
@@ -20,6 +64,32 @@
     <string name="btntfeedback">My Feedback</string>
     <string name="t_add_del_btn">Delete</string>
     <string name="t_ads_edit_btn">Edit</string>
+
+    <string name="view_feedbacks">View My feedbacks</string>
+    <string name="tview_stfeedback" />
+    <string name="tview_sfeedbacktwo" />
+    <string name="enter_namef">Enter Your Name</string>
+    <string name="enter_feedbackf">Enter Your Feedback</string>
+    <string name="entername" />
+    <string name="enterfeedback" />
+    <string name="btn_update">Update</string>
+    <string name="retrieve_name" />
+
+
+    <string name="emailIDh">Email</string>
+    <string name="emailItxtIDh" />
+    <string name="textView3h">ADD JOB VACANCY</string>
+    <string name="textView5h">Institute Name</string>
+    <string name="textView7h">Subject</string>
+    <string name="extView8h">Grade</string>
+    <string name="textView9h">Area</string>
+    <string name="button2h">ADD</string>
+    <string name="lable1h" />
+    <string name="lable2h" />
+    <string name="lable3h" />
+    <string name="lable4h" />
+
+
     <string name="singup_name"></string>
     <string name="signup_email"></string>
     <string name="signup_v_name">Name</string>
@@ -48,4 +118,26 @@
     <string name="started_btn">Get Started</string>
     <string name="btn_show_all">Show All</string>
     <string name="btn_go_ads">MY ADS</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_mail">Enter email</string>
+    <string name="enter_uremail" />
+    <string name="btn_openD">Open</string>
+    <string name="btn_submitfeedback">Add Feedback</string>
+    <string name="re_view">Dulsara Weerasinghe</string>
+    <string name="DtextView2">D2@email.com</string>
+    <string name="textViewDul">Good Teacher</string>
+    <string name="btn3">Update</string>
+
+    <string name="textView10h">Contact Number</string>
+    <string name="TextPhoneh" />
+    <string name="buttonOpenH">Open</string>
+
+
+    <string-array name="names">
+
+        <item> Student </item>
+        <item> Teacher </item>
+        <item> Institute </item>
+    </string-array>
+
 </resources>

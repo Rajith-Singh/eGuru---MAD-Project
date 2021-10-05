@@ -32,9 +32,9 @@
 
     <ImageView
         android:id="@+id/imageView13_insertads_yja"
-        android:layout_width="375dp"
-        android:layout_height="280dp"
-        android:layout_marginTop="496dp"
+        android:layout_width="405dp"
+        android:layout_height="293dp"
+        android:layout_marginTop="476dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -87,16 +87,42 @@
 
     <Button
         android:id="@+id/btn_insertads_yja"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="120dp"
+        android:layout_height="54dp"
         android:hint="@string/btn_insertads_yja"
         android:text="Add Now"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.233"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.204" />
+
+    <Button
+        android:id="@+id/jobbAds"
+        android:layout_width="120dp"
+        android:layout_height="54dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="Update Now"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
-        app:layout_constraintVertical_bias="0.2" />
+        app:layout_constraintVertical_bias="0.795" />
+
+    <Button
+        android:id="@+id/inssAds"
+        android:layout_width="116dp"
+        android:layout_height="53dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="View Ads"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.793"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.203" />
 
     <TextView
         android:id="@+id/tv_insertads_header"
@@ -116,7 +142,7 @@
     <EditText
         android:id="@+id/et_name_insertads_yja"
         android:layout_width="220dp"
-        android:layout_height="43dp"
+        android:layout_height="48dp"
         android:ems="10"
         android:hint="@string/et_name_insertads_yja"
         android:inputType="textPersonName"
@@ -136,6 +162,7 @@
         android:ems="10"
         android:hint="@string/et_classdetails_insertads_yja"
         android:inputType="textPersonName"
+        android:minHeight="48dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView16_insertads_yja"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -150,6 +177,7 @@
         android:ems="10"
         android:hint="@string/et_email_insertads_yja"
         android:inputType="textEmailAddress"
+        android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -164,10 +192,12 @@
         android:ems="10"
         android:hint="@string/et_number_insertads_yja"
         android:inputType="phone"
+        android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView17_insertads_yja"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView16_insertads_yja"
         app:layout_constraintVertical_bias="1.0" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

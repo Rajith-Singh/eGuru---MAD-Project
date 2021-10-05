@@ -30,11 +30,12 @@ public class signup extends AppCompatActivity implements View.OnClickListener {
 
     private FirebaseAuth mAuth;
 
+public class signup extends AppCompatActivity {
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
-
         mAuth = FirebaseAuth.getInstance();
 
         registerBtn = (Button)findViewById(R.id.signup_btn);

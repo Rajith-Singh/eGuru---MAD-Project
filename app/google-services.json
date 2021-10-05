@@ -1,6 +1,8 @@
 {
   "project_info": {
     "project_number": "685408741619",
+    "firebase_url": "https://eguru-mad-project-default-rtdb.firebaseio.com",
+
     "project_id": "eguru-mad-project",
     "storage_bucket": "eguru-mad-project.appspot.com"
   },
