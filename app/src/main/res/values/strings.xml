@@ -1,6 +1,19 @@
 <resources>
     <string name="app_name">eGuru - MAD Project</string>
 
+    <string name="et_name_insertads_yja">Enter Institute Name</string>
+    <string name="et_classdetails_insertads_yja">Enter Class Details</string>
+    <string name="et_email_insertads_yja">Enter Email</string>
+    <string name="btn_insertads_yja">Add Now</string>
+    <string name="et_number_insertads_yja">Enter Contact Number</string>
+    <string name="btn_profile_AdsManage_yja">Manage Institute Ads</string>
+    <string name="tv_profile_name_yja">....</string>
+    <string name="btn_profile_delete_yja">Delete</string>
+    <string name="btn_profile_update_yja">Update</string>
+    <string name="btn_profile_logout_yja">Logout</string>
+    <string name="btn_profile_JobManage_yja">Manage Job Vacancies</string>
+
+
     <string name="loginID">LOGIN</string>
 
     <string name="passwordID">Password:</string>
@@ -11,6 +24,7 @@
 
     <string name="fogotPwTxt">Fogotten Password</string>
     <string name="buttonLogin">Login</string>
+
 
     <string name="signuptxt">Sign Up</string>
     <string name="btn_add_job">Add Now</string>

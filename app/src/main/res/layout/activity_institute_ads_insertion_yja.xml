@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".institute_Ads_Insertion_yja">
+
+    <ImageView
+        android:id="@+id/imageView11_insertads_yja"
+        android:layout_width="470dp"
+        android:layout_height="347dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.427"
+        app:srcCompat="@drawable/rectangle" />
+
+    <ImageView
+        android:id="@+id/imageView12_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/yjashortbcakground" />
+
+    <ImageView
+        android:id="@+id/imageView13_insertads_yja"
+        android:layout_width="405dp"
+        android:layout_height="293dp"
+        android:layout_marginTop="476dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/yjabottomback" />
+
+    <ImageView
+        android:id="@+id/imageView14_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.099"
+        app:srcCompat="@drawable/yjarbtnbackground" />
+
+    <ImageView
+        android:id="@+id/imageView15_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.383"
+        app:srcCompat="@drawable/yjarbtnbackground" />
+
+    <ImageView
+        android:id="@+id/imageView16_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.64"
+        app:srcCompat="@drawable/yjarbtnbackground" />
+
+    <ImageView
+        android:id="@+id/imageView17_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.89"
+        app:srcCompat="@drawable/yjarbtnbackground" />
+
+    <Button
+        android:id="@+id/btn_insertads_yja"
+        android:layout_width="120dp"
+        android:layout_height="54dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="Add Now"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.233"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.204" />
+
+    <Button
+        android:id="@+id/jobbAds"
+        android:layout_width="120dp"
+        android:layout_height="54dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="Update Now"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.795" />
+
+    <Button
+        android:id="@+id/inssAds"
+        android:layout_width="116dp"
+        android:layout_height="53dp"
+        android:hint="@string/btn_insertads_yja"
+        android:text="View Ads"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.793"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.203" />
+
+    <TextView
+        android:id="@+id/tv_insertads_header"
+        android:layout_width="289dp"
+        android:layout_height="47dp"
+        android:text="Insert Institute Class Ads"
+        android:textAlignment="center"
+        android:textColor="#F1CB0B"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.564" />
+
+    <EditText
+        android:id="@+id/et_name_insertads_yja"
+        android:layout_width="220dp"
+        android:layout_height="48dp"
+        android:ems="10"
+        android:hint="@string/et_name_insertads_yja"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView15_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView11_insertads_yja"
+        app:layout_constraintVertical_bias="0.582" />
+
+    <EditText
+        android:id="@+id/et_classdetails_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="@string/et_classdetails_insertads_yja"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView16_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView14_insertads_yja"
+        app:layout_constraintVertical_bias="0.333" />
+
+    <EditText
+        android:id="@+id/et_email_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/et_email_insertads_yja"
+        android:inputType="textEmailAddress"
+        android:minHeight="48dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.526" />
+
+    <EditText
+        android:id="@+id/et_number_insertads_yja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/et_number_insertads_yja"
+        android:inputType="phone"
+        android:minHeight="48dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView17_insertads_yja"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView16_insertads_yja"
+        app:layout_constraintVertical_bias="1.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
