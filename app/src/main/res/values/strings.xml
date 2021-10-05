@@ -50,7 +50,6 @@
     <string name="retrieve_name" />
 
 
-
     <string name="singup_name"></string>
     <string name="signup_email"></string>
     <string name="signup_v_name">Name</string>
@@ -63,6 +62,12 @@
     <string name="enter_email">Enter Email</string>
     <string name="enter_mail">Enter email</string>
     <string name="enter_uremail" />
+    <string name="btn_openD">Open</string>
+    <string name="btn_submitfeedback">Add Feedback</string>
+    <string name="re_view">Dulsara Weerasinghe</string>
+    <string name="DtextView2">D2@email.com</string>
+    <string name="textViewDul">Good Teacher</string>
+    <string name="btn3">Update</string>
 
     <string-array name="names">
 

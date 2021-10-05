@@ -35,7 +35,7 @@
         app:layout_constraintVertical_bias="0.199" />
 
     <Button
-        android:id="@+id/btndelete"
+        android:id="@+id/btndeleteDul"
         android:layout_width="136dp"
         android:layout_height="70dp"
         android:layout_marginStart="8dp"
@@ -48,10 +48,10 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.389"
-        app:layout_constraintStart_toEndOf="@+id/btnupdate" />
+        app:layout_constraintStart_toEndOf="@+id/btnupdateDul" />
 
     <Button
-        android:id="@+id/btnupdate"
+        android:id="@+id/btnupdateDul"
         android:layout_width="137dp"
         android:layout_height="70dp"
         android:layout_marginStart="8dp"
@@ -62,7 +62,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/btndelete"
+        app:layout_constraintEnd_toStartOf="@+id/btndeleteDul"
         app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
@@ -100,7 +100,7 @@
         app:srcCompat="@drawable/oneside" />
 
     <EditText
-        android:id="@+id/views_name"
+        android:id="@+id/views_namedul"
         android:layout_width="189dp"
         android:layout_height="45dp"
         android:ems="10"
@@ -129,11 +129,11 @@
         app:layout_constraintHorizontal_bias="0.553"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.505"
+        app:layout_constraintVertical_bias="0.622"
         tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
 
     <EditText
-        android:id="@+id/view_rating"
+        android:id="@+id/view_emaildul"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -146,7 +146,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.632"
+        app:layout_constraintVertical_bias="0.505"
         tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
 
     <ImageView
@@ -159,17 +159,5 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/top" />
-
-    <ImageView
-        android:id="@+id/DimageView8"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.022"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.618"
-        app:srcCompat="@drawable/star" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -10,7 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EGuruMADProject">
         <activity
-
+            android:name=".showActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RetrieveFeedbacks"
+            android:exported="true" />
+        <activity
             android:name=".signup"
             android:exported="true" />
         <activity
@@ -27,7 +32,6 @@
             android:exported="true" />
         <activity
             android:name=".t_manage_ads"
-
             android:exported="true" />
         <activity
             android:name=".editstudentdeedbacks"

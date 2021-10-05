@@ -32,7 +32,7 @@
         app:srcCompat="@drawable/rectangle" />
 
     <Button
-        android:id="@+id/btn_update"
+        android:id="@+id/btn_updateDulsara"
         android:layout_width="151dp"
         android:layout_height="78dp"
         android:text="@string/btn_update"
@@ -48,7 +48,7 @@
         app:rippleColor="#FF5722" />
 
     <EditText
-        android:id="@+id/retrieve_name"
+        android:id="@+id/retrieve_nameDul"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
