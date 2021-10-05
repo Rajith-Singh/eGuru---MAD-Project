@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
 
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/eGuru---MAD-Project/app/src/main/res/layout/activity_main.xml" value="0.2453125" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/eGuru---MAD-Project/app/src/main/res/layout/activity_main22.xml" value="0.21875" />
+
+        <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+
+
 
         <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_insertion_yja.xml" value="0.25" />
         <entry key="..\:/Android Projects/eGuru---MAD-Project/app/src/main/res/layout/activity_institute_ads_manage_yja.xml" value="0.371875" />
@@ -19,6 +25,7 @@
         <entry key="..\:/Users/hasin/AndroidStudioProjects/eGuru---MAD-Project/app/src/main/res/layout/activity_main11.xml" value="0.264" />
         <entry key="..\:/Users/hasin/AndroidStudioProjects/eGuru---MAD-Project/app/src/main/res/layout/activity_view_jobs.xml" value="0.121875" />
 
+
         <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/drawable/round_btn.xml" value="0.1" />
         <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/drawable/round_btn_yellow.xml" value="0.20555555555555555" />
         <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_addjob.xml" value="0.24010416666666667" />
@@ -27,6 +34,7 @@
         <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_teacherprofile.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_tmanage_ads.xml" value="0.264" />
         <entry key="..\:/Users/rajit/AndroidStudioProjects/eGuruMADProject/app/src/main/res/layout/activity_view_teachers_adds.xml" value="0.25416666666666665" />
+
 
       </map>
     </option>
