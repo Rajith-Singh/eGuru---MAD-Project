@@ -92,15 +92,32 @@
 
     <Button
         android:id="@+id/btn_add_job"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="188dp"
-        android:backgroundTint="#42BF90"
+        android:layout_width="287dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="52dp"
+        android:backgroundTint="#F1CB0B"
         android:text="@string/btn_add_job"
+        android:textColor="#050505"
+        android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32" />
+
+    <Button
+        android:id="@+id/btn_show_all"
+        android:layout_width="287dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="112dp"
+        android:backgroundTint="#F1CB0B"
+        android:text="@string/btn_show_all"
+        android:textColor="#050505"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView32" />
 
     <TextView
         android:id="@+id/txt_add_job"
