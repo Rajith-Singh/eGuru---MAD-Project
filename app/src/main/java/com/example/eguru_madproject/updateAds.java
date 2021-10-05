@@ -71,12 +71,14 @@ public class updateAds extends AppCompatActivity {
         });
 
 
+
         Button btn_viewads = findViewById(R.id.inssAds);
         btn_viewads.setOnClickListener(v->
         {
             Intent intent = new Intent(updateAds.this, ShowActivity99.class);
             startActivity(intent);
         });
+
 
 
     }
