@@ -40,7 +40,7 @@
             android:name=".t_manage_ads"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".addjob"
             android:exported="true" />
         <activity
             android:name=".view_teachers_adds"
@@ -49,7 +49,7 @@
             android:name=".t_login"
             android:exported="true" />
         <activity
-            android:name=".addjob"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

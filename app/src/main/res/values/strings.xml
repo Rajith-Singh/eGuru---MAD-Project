@@ -47,4 +47,5 @@
     <string name="reset_btn">RESET PASSWORD</string>
     <string name="started_btn">Get Started</string>
     <string name="btn_show_all">Show All</string>
+    <string name="btn_go_ads">MY ADS</string>
 </resources>
