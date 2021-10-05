@@ -83,8 +83,10 @@ public class r_profile extends AppCompatActivity {
         });
     }
 
+
     private void openAddJobActivity() {
         Intent intent = new Intent(r_profile.this,addjob.class);
         startActivity(intent);
     }
 }
+
