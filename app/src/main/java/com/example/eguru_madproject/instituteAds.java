@@ -7,9 +7,10 @@ public class instituteAds {
     private String et_classdetails;
     private String et_email;
     private String et_number;
-    public instituteAds(){}
-    public  instituteAds(String et_name, String et_classdetails, String et_email, String et_number)
 
+    public instituteAds(){}
+
+    public  instituteAds(String et_name, String et_classdetails, String et_email, String et_number)
     {
         this.et_name = et_name;
         this.et_classdetails = et_classdetails;

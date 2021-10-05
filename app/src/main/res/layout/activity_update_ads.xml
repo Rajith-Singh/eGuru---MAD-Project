@@ -90,7 +90,7 @@
         android:layout_width="120dp"
         android:layout_height="54dp"
         android:hint="@string/btn_insertads_yja"
-        android:text="Add Now"
+        android:text="Update"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.233"
@@ -99,17 +99,17 @@
         app:layout_constraintVertical_bias="0.204" />
 
     <Button
-        android:id="@+id/jobbAds"
+        android:id="@+id/btn_insertads_yja2"
         android:layout_width="120dp"
         android:layout_height="54dp"
         android:hint="@string/btn_insertads_yja"
-        android:text="Update Now"
+        android:text="Delete"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView11_insertads_yja"
-        app:layout_constraintVertical_bias="0.795" />
+        app:layout_constraintVertical_bias="0.716" />
 
     <Button
         android:id="@+id/inssAds"
@@ -128,7 +128,7 @@
         android:id="@+id/tv_insertads_header"
         android:layout_width="289dp"
         android:layout_height="47dp"
-        android:text="Insert Institute Class Ads"
+        android:text="Update Institute Class Ads"
         android:textAlignment="center"
         android:textColor="#F1CB0B"
         android:textSize="24sp"
@@ -199,5 +199,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView16_insertads_yja"
         app:layout_constraintVertical_bias="1.0" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>

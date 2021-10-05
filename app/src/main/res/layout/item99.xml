@@ -24,7 +24,6 @@
                 android:text="Name :"
                 android:padding="5dp"
                 android:textStyle="bold"
-
            />
 
             <TextView

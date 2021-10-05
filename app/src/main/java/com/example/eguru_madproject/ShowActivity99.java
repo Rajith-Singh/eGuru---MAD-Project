@@ -6,6 +6,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.widget.EditText;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -14,6 +17,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.Locale;
 
 public class ShowActivity99 extends AppCompatActivity {
 
@@ -27,6 +31,9 @@ public class ShowActivity99 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show99);
+
+
+
 
         recyclerView = findViewById(R.id.recycleview);
         recyclerView.setHasFixedSize(true);
@@ -54,7 +61,9 @@ public class ShowActivity99 extends AppCompatActivity {
             }
         });
     }
+
 }
+
 
 
 
