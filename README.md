@@ -10,6 +10,6 @@ Database: Firebase
 
 -Team Amigos
 Yuchira Athukorala
-Hasini Gamage
 Tharusha Rajith Singh
+Hasini Gamage
 Dulsara Weerasinghe
