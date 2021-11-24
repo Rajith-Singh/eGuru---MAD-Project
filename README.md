@@ -9,7 +9,11 @@ Language: Java
 Database: Firebase
 
 -Team Amigos
+
 Yuchira Athukorala
+
 Tharusha Rajith Singh
+
 Hasini Gamage
+
 Dulsara Weerasinghe
