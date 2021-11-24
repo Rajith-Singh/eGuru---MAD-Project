@@ -1,6 +1,6 @@
 # eGuru---MAD-Project
 
-#----eGuru Android Application----
+eGuru Android Application
 
 The second-year mobile application development (MAD) group project of Sri Lanka of the Institute of Information Technology (SLIIT).
 
